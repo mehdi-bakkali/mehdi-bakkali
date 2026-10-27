@@ -12,9 +12,3 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=mehdi-bakkali&layout=compact&langs_count=5&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=mehdi-bakkali&layout=compact&langs_count=5&theme=tokyonight)
 
-
-
----
-[![](https://komarev.com/ghpvc/?username=mehdi-bakkali&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
